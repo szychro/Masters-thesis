@@ -2,7 +2,7 @@
 A computational data analysis
 workflow for patient classification and
 synthetic oversampling - from data to dashboards. 
-![SWAGDPU interface](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif){width=100}
+![SWAGDPU interface](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif)
 ---
 ### Table of contents
 * [General info](#general-info)
