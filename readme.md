@@ -1,7 +1,7 @@
 # SWAGDPU
-####[A computational data analysis
+<h4>A computational data analysis
 workflow for patient classification and
-synthetic oversampling - from data to dashboards.]
+synthetic oversampling - from data to dashboards.
 ![SWAGDPU](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif)
 ---
 ### Table of contents
@@ -16,7 +16,7 @@ synthetic oversampling - from data to dashboards.]
   * [Dash](#dash)
 ---
 ### General info
-####[SWAGDPU is an overall data analysis workflow,
+SWAGDPU is an overall data analysis workflow,
 including data integration, developing a
 diverse set of machine learning models, and setting up a Dash application.\
 This workflow consists of six modules. Each of this tool is very 
@@ -24,7 +24,7 @@ different,which results in a
 very versatile pipeline, that could be easily reused for other
 datasets and applications on different domains based on the 
 individual purposes. All the methods proposed here can be easily
-replaced with other algorithms.]
+replaced with other algorithms. 
 ---
 ### Technical specification
 | Library    | Version |
