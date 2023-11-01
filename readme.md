@@ -3,7 +3,7 @@
 workflow for patient classification and
 synthetic oversampling - from data to dashboards. </font>
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif" width="280px">
 ---
 ### Table of contents
 * [General info](#general-info)
@@ -41,9 +41,9 @@ replaced with other algorithms. </font>
 ---
 ### Usage
 #### Data preprocessing
-<font size="2"> In this module we are preparing the data for the next steps.
+In this module we are preparing the data for the next steps.
 In *columns_to_drop* write down the columns to remove. In
-*categorical_mappings* set the encoding for the variables. </font>
+*categorical_mappings* set the encoding for the variables.
 
 ```python
 input_filename = 'path_to_input_file.csv'
