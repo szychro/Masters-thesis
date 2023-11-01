@@ -1,8 +1,8 @@
 # SWAGDPU
-<h4>A computational data analysis
+A computational data analysis
 workflow for patient classification and
-synthetic oversampling - from data to dashboards.
-![SWAGDPU](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif)
+synthetic oversampling - from data to dashboards. 
+![SWAGDPU interface](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif){width=100}
 ---
 ### Table of contents
 * [General info](#general-info)
@@ -64,7 +64,7 @@ Use the saved file from the UMAP section. Set the values for
 X and y and run the code to get the plots.
 
 #### ProWRAS
-Download the[ ProWRAS library ](https://github.com/COSPOV/ProWRAS)
+Download the [ProWRAS library](https://github.com/COSPOV/ProWRAS)
 and use the file from the UMAP module. Working with ProWRAS 
 requires to use numpy package instead of pandas. To create
 the synthetic samples, choose the minor cluster and set the
