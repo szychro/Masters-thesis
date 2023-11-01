@@ -3,9 +3,7 @@
 workflow for patient classification and
 synthetic oversampling - from data to dashboards. </font>
 
-<div style="text-align:center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif" width="380px">
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZicDlocTNlNXJkNjZsMDc2aWE0OTZqMXBwOW1mM3Awd2xqdjMzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3cqa5H1LrByNOGv1rw/giphy.gif" width="380px">
 
 ---
 ### Table of contents
