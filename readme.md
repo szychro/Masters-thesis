@@ -1,4 +1,4 @@
-# SWAGDPU
+# Machine Learning Driven Assessment and Optimization of Risk Clusters in Acute Myeloid Leukemia Based on Clinical and Genetic Profiles.
 <font size="2"> A computational data analysis
 workflow for patient classification and
 synthetic oversampling - from data to dashboards. </font>
