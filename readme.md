@@ -18,7 +18,7 @@ synthetic oversampling - from data to dashboards. </font>
   * [Dash](#dash)
 ---
 ### General info
-<font size="2"> SWAGDPU is an overall data analysis workflow,
+<font size="2"> This Master's thesis is an overall data analysis workflow,
 including data integration, developing a
 diverse set of machine learning models, and setting up a Dash application.\
 This workflow consists of six modules. Each of this tool is very 
